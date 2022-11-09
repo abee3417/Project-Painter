@@ -1,0 +1,14 @@
+﻿  CLine.cpp
+  Ellipse.cpp
+  Figure.cpp
+  MyButton.cpp
+  MyView.cpp
+  Proj2018.cpp
+  Rect.cpp
+  TButton.cpp
+  Toolbar.cpp
+  View.cpp
+c:\users\양윤성\desktop\c언어프로그래밍\과제(조세형)\proj.v07\proj.v07\view.cpp(144): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\양윤성\desktop\c언어프로그래밍\과제(조세형)\proj.v07\proj.v07\view.cpp(187): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Proj2018.vcxproj -> C:\Users\양윤성\Desktop\C언어프로그래밍\과제(조세형)\Proj.v07\Proj.v07\x64\Debug\Proj2018.exe

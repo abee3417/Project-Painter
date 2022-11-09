@@ -1,0 +1,9 @@
+기존엔 MyView 클래스에서 버튼을 그려주는 기능을 Toolbar 클래스가 받아서 했는데
+이 기능을 Container 클래스로 옮겨주었습니다.
+
+int count = 0;
+for (std::list<Component*>::iterator i = m_List.begin(); i != m_List.end(); i++) {
+	(*i)->draw(count * 32);
+	count++;
+}
+count = 0;
